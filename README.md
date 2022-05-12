@@ -1,6 +1,6 @@
 # Wide Area Network (Redes de Area Extendida)
 
-This repository is about some practices I made about WAN networks in my university.
+This repository is about some practices related to WAN networks that I made in my university.
 
 ## Laboratories 📖
 
