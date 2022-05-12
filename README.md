@@ -12,11 +12,12 @@ This repository is about some practices I made about WAN networks in my universi
 
 • MikroTik routers.
 • Linux (ubuntu) so.
+• Windows Server.
 
 
 ## Language ✍🏻
 
-The documents are made in Spanish.
+The documents are written in Spanish.
 
 ## 📌
 If you have any questions, feel free to ask me about these projects.
