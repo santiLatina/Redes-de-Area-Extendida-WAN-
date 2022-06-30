@@ -7,6 +7,8 @@ This repository is about some practices related to WAN networks that I made in m
 • RIP configuration.
 • OSPF configuration.
 • BGP configuration.
+• VOIP
+• Security - Firewalls and IpSec
 
 ### Technologies 🛠️
 
